@@ -1,0 +1,95 @@
+[INFO ] 2022-07-30 19:51:53.500 [main] LoggingDemo - this is sample info
+[INFO ] 2022-07-30 19:51:53.502 [main] LoggingDemo - this is info logger
+[WARN ] 2022-07-30 19:51:53.502 [main] LoggingDemo - this is warn logger
+[ERROR] 2022-07-30 19:51:53.502 [main] LoggingDemo - this is error logger
+[FATAL] 2022-07-30 19:51:53.502 [main] LoggingDemo - this is fatal logger
+[INFO ] 2022-07-30 20:27:36.033 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 20:27:36.107 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 20:27:43.286 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 20:27:45.342 [main] AssignLeavePage - user is on Dashboard page
+[WARN ] 2022-07-30 20:27:56.854 [main] AssignLeavePage - warning pop up is displayed
+[INFO ] 2022-07-30 20:28:09.155 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 20:28:09.206 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 20:28:15.942 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 21:59:53.947 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 21:59:54.021 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 22:00:01.147 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 22:00:03.240 [main] AssignLeavePage - user is on Dashboard page
+[INFO ] 2022-07-30 22:00:24.006 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 22:00:24.052 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 22:00:30.695 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 22:14:12.044 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 22:14:12.137 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 22:14:13.779 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 22:14:33.927 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 22:14:33.999 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 22:14:35.535 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 22:15:23.933 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 22:15:24.019 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 22:15:25.534 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 22:15:44.820 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 22:15:44.934 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 22:15:46.478 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 22:22:17.616 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 22:22:17.687 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 22:22:19.672 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 22:22:41.316 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 22:22:41.401 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 22:22:43.086 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 22:27:52.147 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 22:27:52.265 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 22:27:54.064 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 22:28:11.070 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 22:28:11.136 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 22:28:12.931 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 22:29:39.606 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 22:29:39.661 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 22:29:41.267 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 22:29:58.734 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 22:29:58.800 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 22:30:00.794 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 23:37:18.547 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 23:37:18.594 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 23:37:23.589 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 23:37:25.673 [main] AssignLeavePage - user is on Dashboard page
+[WARN ] 2022-07-30 23:37:35.552 [main] AssignLeavePage - warning pop up is displayed
+[INFO ] 2022-07-30 23:37:44.745 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 23:37:44.798 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 23:37:50.168 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 23:38:41.544 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 23:38:41.596 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 23:38:46.812 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 23:38:48.890 [main] AssignLeavePage - user is on Dashboard page
+[WARN ] 2022-07-30 23:38:58.929 [main] AssignLeavePage - warning pop up is displayed
+[INFO ] 2022-07-30 23:39:05.792 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 23:39:05.847 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 23:39:11.407 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 23:45:59.266 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 23:45:59.312 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 23:46:05.581 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 23:46:07.667 [main] AssignLeavePage - user is on Dashboard page
+[WARN ] 2022-07-30 23:46:17.755 [main] AssignLeavePage - warning pop up is displayed
+[INFO ] 2022-07-30 23:46:26.779 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 23:46:26.823 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 23:46:32.907 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 23:47:31.622 [main] LoggingDemo - this is sample info
+[INFO ] 2022-07-30 23:47:31.625 [main] LoggingDemo - this is info logger
+[WARN ] 2022-07-30 23:47:31.625 [main] LoggingDemo - this is warn logger
+[ERROR] 2022-07-30 23:47:31.625 [main] LoggingDemo - this is error logger
+[FATAL] 2022-07-30 23:47:31.625 [main] LoggingDemo - this is fatal logger
+[INFO ] 2022-07-30 23:51:37.001 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 23:51:37.058 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 23:51:44.189 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-30 23:51:46.259 [main] AssignLeavePage - user is on Dashboard page
+[WARN ] 2022-07-30 23:51:56.492 [main] AssignLeavePage - warning pop up is displayed
+[INFO ] 2022-07-30 23:52:04.724 [main] LoginPage - User id is entered
+[INFO ] 2022-07-30 23:52:04.779 [main] LoginPage - password id is entered
+[INFO ] 2022-07-30 23:52:11.476 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-31 08:04:06.384 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 08:04:06.454 [main] LoginPage - password id is entered
+[INFO ] 2022-07-31 08:04:11.675 [main] LoginPage - Login Button is clicked
+[INFO ] 2022-07-31 08:04:13.768 [main] AssignLeavePage - user is on Dashboard page
+[WARN ] 2022-07-31 08:04:23.716 [main] AssignLeavePage - warning pop up is displayed
+[INFO ] 2022-07-31 08:04:31.129 [main] LoginPage - User id is entered
+[INFO ] 2022-07-31 08:04:31.176 [main] LoginPage - password id is entered
+[INFO ] 2022-07-31 08:04:36.332 [main] LoginPage - Login Button is clicked
