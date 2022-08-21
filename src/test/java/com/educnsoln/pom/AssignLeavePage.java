@@ -18,7 +18,7 @@ import com.educnsoln.base.CommonFunctions;
 public class AssignLeavePage extends CommonFunctions  {
 	WebDriver driver;
 
-	@FindBy(id = "menu_dashboard_index")
+	@FindBy(className = "oxd-brand-banner")
 	public WebElement dashboard_menu;
 	@FindBy(className = "quickLaunge")
 	WebElement assignleave_btn;
